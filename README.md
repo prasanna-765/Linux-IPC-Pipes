@@ -1,5 +1,5 @@
-## Name : SHYAM SUJIN U
-## Reg no : 212223040201
+## Name : PRASANNA A
+## Reg no : 212223220078
 # Linux-IPC--Pipes
 Linux-IPC-Pipes
 
@@ -87,7 +87,8 @@ printf("THE RESULTS OF CLIENTS ARE ...... \n"); write(1,buff,n);
 
 ## OUTPUT
 
-![image](https://github.com/Shyamsujin/Linux-IPC-Pipes/assets/144870449/92937f04-f107-4086-b868-f29ab6fbbbf4)
+![image](https://github.com/prasanna-765/Linux-IPC-Pipes/assets/150009505/080f2e5c-6b6e-43e9-b9f2-fba0e51309ac)
+
 
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
@@ -107,7 +108,8 @@ exit(EXIT_SUCCESS);
 
 ## OUTPUT
 
-![image](https://github.com/Shyamsujin/Linux-IPC-Pipes/assets/144870449/37d870ce-c385-4061-864f-a963fd113c39)
+![image](https://github.com/prasanna-765/Linux-IPC-Pipes/assets/150009505/31d6623a-a936-4b03-a796-cea5dacd073a)
+
 
 # RESULT:
 The program is executed successfully.
